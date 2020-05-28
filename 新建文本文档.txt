@@ -8,3 +8,5 @@ git remote add origin https://github.com/dongdong466/Java-.git	建立远程仓�
 git push -u origin master	推送到远程仓库
 
 git clone 【url】 克隆远程仓库的项目
+
+王月蓉
