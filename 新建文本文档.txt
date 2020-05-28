@@ -10,5 +10,9 @@ git push -u origin master	推送到远程仓库
 git clone 【url】 克隆远程仓库的项目
 
 张吉祥
+
 破绽百出
 解决
+无懈可击
+
+冲突已解决！
